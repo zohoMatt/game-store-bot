@@ -28,9 +28,9 @@
   },
   "dependencies": {
     "@sentry/node": "^5.28.0",
-    "@types/node-cron": "^2.0.3",
+    "@types/node-schedule": "^1.3.1",
     "dotenv": "^8.2.0",
-    "node-cron": "^2.0.3",
+    "node-schedule": "^1.3.2",
     "winston": "^3.3.3",
     "winston-loggly-bulk": "^3.1.1"
   },
